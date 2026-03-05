@@ -1,10 +1,23 @@
-[
- {
-  "id": 1,
-  "name": "Squid game",
-  "type": "map",
-  "size": "13.2 MB",
-  "image": "https://pub-99cdbf4cddab4418b501d10376529807.r2.dev/images/mod100.png",
-  "download": "https://pub-99cdbf4cddab4418b501d10376529807.r2.dev/maps/FILE_ID_100.mcworld"
- }
-]
+{
+ "maps":[
+  {
+   "id":1,
+   "name":"Squid game",
+   "author":"ModCraft",
+   "size":"13.2 MB",
+   "image":"https://pub-99cdbf4cddab4418b501d10376529807.r2.dev/images/mod100.png",
+   "download":"https://pub-99cdbf4cddab4418b501d10376529807.r2.dev/maps/FILE_ID_100.mcworld"
+  }
+ ],
+
+ "addons":[
+  {
+   "id":2,
+   "name":"Skull Powers Addon: Mob Head Abilities",
+   "author":"ModCraft",
+   "size":"15.38kb",
+   "image":"https://pub-99cdbf4cddab4418b501d10376529807.r2.dev/images/001SkullPowers.png",
+   "download":"https://pub-99cdbf4cddab4418b501d10376529807.r2.dev/Addons/001SkullPowers.mcpack"
+  }
+ ]
+}
