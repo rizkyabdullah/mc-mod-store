@@ -3,23 +3,30 @@
   {
    "name":"Superhero world",
    "version":"1.0",
+   "description":"play many super hero from DC and Marvel",
    "type":"world",
+   "author":"Kangboy",
    "icon":"https://pub-99cdbf4cdddb4418b501d10376529807.r2.dev/image/Super%20hero%20world.png",
    "url":"https://pub-99cdbf4cdddb4418b501d10376529807.r2.dev/world/Super%20hero%20world.zip"
   },
   {
    "name":"Naruto world",
    "version":"1.0",
+   "description":"play many ninja from Naruto Shipuden",
    "type":"world",
+   "author":"Kangboy",
    "icon":"https://pub-99cdbf4cdddb4418b501d10376529807.r2.dev/image/Naruto%20Wolrd.png",
    "url":"https://pub-99cdbf4cdddb4418b501d10376529807.r2.dev/world/Naruto%20Wolrd.zip"
   },
   {
    "name":"Kawaii Wolrd",
    "version":"1.0",
+   "description":"play beautyfull kawaii wolrd with friend",
    "type":"game",
+   "author":"Kangboy",
    "icon":"https://pub-99cdbf4cdddb4418b501d10376529807.r2.dev/image/kawaii.png",
    "url":"https://pub-99cdbf4cdddb4418b501d10376529807.r2.dev/game/kawaii.zip"
   }
  ]
 }
+
