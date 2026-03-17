@@ -1,0 +1,10 @@
+{
+  "mods": [
+    {
+      "name": "Naruto Mod",
+      "url": "https://pub-99cdbf4cdddb4418b501d10376529807.r2.dev/world/Naruto%20Wolrd.zip",
+      "image": "https://pub-99cdbf4cdddb4418b501d10376529807.r2.dev/image/Naruto%20Wolrd.png",
+      "target": "mods"
+    }
+  ]
+}
