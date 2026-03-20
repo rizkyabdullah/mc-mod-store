@@ -1,12 +1,12 @@
 {
  "mods":[
   {
-   "name":"Kawaii world - Game",
+   "name":"Dandy's world - Game",
    "version":"1.0",
    "description":"play many super hero from DC and Marvel",
    "type":"game",
    "author":"Kangboy",
-   "icon":"https://pub-99cdbf4cdddb4418b501d10376529807.r2.dev/image/icon.png",
+   "icon":"https://pub-99cdbf4cdddb4418b501d10376529807.r2.dev/image/dandy.png",
    "url":"https://pub-99cdbf4cdddb4418b501d10376529807.r2.dev/game/minetes_kawaii.zip"
   },
   {
