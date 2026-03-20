@@ -1,6 +1,15 @@
 {
  "mods":[
   {
+   "name":"Update Game",
+   "version":"1.0",
+   "description":"play many super hero from DC and Marvel",
+   "type":"mods",
+   "author":"Kangboy",
+   "icon":"https://pub-99cdbf4cdddb4418b501d10376529807.r2.dev/image/0update.png",
+   "url":"https://pub-99cdbf4cdddb4418b501d10376529807.r2.dev/mod/0update.zip"
+  },
+  {
    "name":"Kawaii world",
    "version":"1.0",
    "description":"play many super hero from DC and Marvel",
