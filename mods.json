@@ -1,6 +1,15 @@
 {
  "mods":[
   {
+   "name":"Gun Craft",
+   "version":"1.0",
+   "description":"play many super hero from DC and Marvel",
+   "type":"world",
+   "author":"Kangboy",
+   "icon":"https://pub-99cdbf4cdddb4418b501d10376529807.r2.dev/image/Screenshot_8.png",
+   "url":"https://pub-99cdbf4cdddb4418b501d10376529807.r2.dev/world/Craftsman%20Gun%20Craft.zip"
+  },
+  {
    "name":"Superhero world",
    "version":"1.0",
    "description":"play many super hero from DC and Marvel",
